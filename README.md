@@ -1,4 +1,4 @@
-#Andres Ruiz · AI-Co-Pilots-Agents
+#Andres Ruiz · AI Co-Pilots and Agents
 
 RAG copilots, AI agents & workflow automation. Business-first. Human-led.
 
